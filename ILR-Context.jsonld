@@ -2,7 +2,7 @@
   "@context": {
     “PESCCollegeTranscript1.7“ : "https://www.pesc.org/college-transcript#1.7”,
     “PESCCollegeTranscript1.8“ : "https://www.pesc.org/college-transcript#1.8”,
-    “PESCHighSchoolTrascript1.6” : “https://www.pesc.org/high-school-transcript#1.6”,
+    “PESCHighSchoolTranscript1.6” : “https://www.pesc.org/high-school-transcript#1.6”,
     “PESCEPortfolio1.0” : "https://www.pesc.org/eportfolio#1.0”,
     “PESCCredentialExperientialLearning1.0” : "https://www.pesc.org/credential-experiential-learning#1.0”
   }
