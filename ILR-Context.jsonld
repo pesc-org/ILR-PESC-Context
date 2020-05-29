@@ -1,9 +1,10 @@
 {
   "@context": {
-    “PESCCollegeTranscript1.7“ : "https://www.pesc.org/college-transcript#1.7”,
-    “PESCCollegeTranscript1.8“ : "https://www.pesc.org/college-transcript#1.8”,
-    “PESCHighSchoolTranscript1.6” : “https://www.pesc.org/high-school-transcript#1.6”,
-    “PESCEPortfolio1.0” : "https://www.pesc.org/eportfolio#1.0”,
-    “PESCCredentialExperientialLearning1.0” : "https://www.pesc.org/credential-experiential-learning#1.0”
+    “PESCCollegeTranscript1.6“ : "https://www.pesc.org/college-transcript.html#1.6”,
+    “PESCCollegeTranscript1.7“ : "https://www.pesc.org/college-transcript.html#1.7”,
+    “PESCCollegeTranscript1.8“ : "https://www.pesc.org/college-transcript.html#1.8”,
+    “PESCHighSchoolTranscript1.6” : “https://www.pesc.org/high-school-transcript.html#1.6”,
+    “PESCEPortfolio1.0” : "https://www.pesc.org/eportfolio.html#1.0”,
+    “PESCCredentialExperientialLearning1.0” : "https://www.pesc.org/credential-experiential-learning.html#1.0”
   }
 }
